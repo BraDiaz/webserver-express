@@ -5,7 +5,7 @@ const hbs = require('hbs');
 app.use(express.static(__dirname + '/public'));
 require('./hbs/helpers');
 
-const port = process.env.PORT || 3000;
+const port = process.env.PORT || 5000;
 
 //Express HBS 
 hbs.registerPartials(__dirname + '/views/parciales');
