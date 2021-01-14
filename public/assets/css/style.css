@@ -1,14 +1,9 @@
 footer {
-    background-color: #353a3f;
+    background-color: #353A3F;
     color: white;
     width: 100%;
     position: fixed;
     bottom: 0px;
     text-align: center;
-    padding: 15px;
-}
-
-.jumbotron {
-    background-color: #afb2b4;
-    padding: 40px;
+    padding: 20px;
 }
